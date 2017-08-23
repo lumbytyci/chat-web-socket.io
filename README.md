@@ -2,7 +2,7 @@
 
 Demonstrating sockets with a simple web chat application
 
-![Optional Text](demonstration.png)
+![Optional Text](screenshot.png)
 
 ## Getting Started
 
