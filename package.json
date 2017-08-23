@@ -1,5 +1,5 @@
 {
-  "name": "Socket.io Chat",
+  "name": "Socket.io-Chat",
   "version": "1.0.0",
   "description": "Chat App",
   "main": "index.js",
